@@ -1,0 +1,15 @@
+body {
+  background-color: #f0f0f0;
+}
+.card-orange {
+  border: 1px solid #f58220 !important;
+}
+.card-blue {
+  border: 1px solid #0066b3 !important;
+}
+.card-green {
+  border: 1px solid #71bf44 !important;
+}
+.card-purple {
+  border: 1px solid #812990 !important;
+}
